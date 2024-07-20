@@ -1,4 +1,4 @@
-# User Manual 
+# Wi-Fi De-authentication Detection and Prevention System
 
 ## Installation and Setup
  
